@@ -22,11 +22,13 @@ Interface intuitiva para o usuário.
 
 ## Diagrama de Casos de Uso
 
-![image](https://github.com/user-attachments/assets/3bb27ccc-d6f2-44d9-a108-a55fa61cc52c)
+![image](https://github.com/user-attachments/assets/23de7054-485f-4a63-af80-e9ac3bf206df)
+
+
  
 ## Diagrama de Domínio do problema
 
-![image](https://github.com/user-attachments/assets/12214081-09ee-46dd-b1f5-7390933e22ad)
+![image](https://github.com/user-attachments/assets/d7c048c3-24fa-4ce7-b9fc-75a0fefba524)
 
 
 
