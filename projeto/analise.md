@@ -22,11 +22,13 @@ Interface intuitiva para o usuário.
 
 ## Diagrama de Casos de Uso
 
-Apresentar o diagram de casos de uso, identificando as funcionalidades do sistema assim como os atores envolvidos
+![image](https://github.com/user-attachments/assets/3bb27ccc-d6f2-44d9-a108-a55fa61cc52c)
  
 ## Diagrama de Domínio do problema
 
-Elaborar um diagrama conceitual do domínio do problema.
+![image](https://github.com/user-attachments/assets/12214081-09ee-46dd-b1f5-7390933e22ad)
+
+
 
 
 <div align="center">
