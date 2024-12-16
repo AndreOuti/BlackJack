@@ -28,7 +28,8 @@ Interface intuitiva para o usuário.
  
 ## Diagrama de Domínio do problema
 
-![image](https://github.com/user-attachments/assets/d7c048c3-24fa-4ce7-b9fc-75a0fefba524)
+![image](https://github.com/user-attachments/assets/b09d6412-65c0-4278-a6eb-04e4e8b88331)
+
 
 
 
