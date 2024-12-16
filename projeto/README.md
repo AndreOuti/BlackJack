@@ -2,9 +2,9 @@
      width="30%"
      style="padding: 10px">
 
-#  Blackjack 
+#  Blackjack POO
 
-##  O projeto consiste em desenvolver um jogo de Blackjack, onde o jogador enfrentará o dealer controlado pelo programa. O sistema deve gerenciar as regras clássicas do jogo, distribuir cartas, calcular pontuações e processar apostas, permitindo que o jogador tome decisões como pedir carta, manter a mão ou dividir cartas. 
+##  O projeto consiste em desenvolver um jogo de Blackjack, seguindo suas regras normais , com usuário escolhendo a quantidade de jogadores e a quatiadade de fichas que irão começar.
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
