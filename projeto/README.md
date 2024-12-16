@@ -4,7 +4,7 @@
 
 #  Blackjack POO
 
-##  O projeto consiste em desenvolver um jogo de Blackjack, seguindo suas regras normais , com usuário escolhendo a quantidade de jogadores e a quatiadade de fichas que irão começar.
+##  O projeto consiste em desenvolver um jogo de Blackjack, seguindo suas regras normais , com usuário escolhendo a quantidade de jogadores e a quantidade de fichas que irão começar.
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
