@@ -25,14 +25,10 @@ Interface intuitiva para o usuário.
 ![image](https://github.com/user-attachments/assets/23de7054-485f-4a63-af80-e9ac3bf206df)
 
 
- 
+
 ## Diagrama de Domínio do problema
 
-![image](https://github.com/user-attachments/assets/abfd9492-219f-4afc-b8fb-a645a20dd08c)
-
-
-
-
+![image](https://github.com/user-attachments/assets/be80d035-8b28-4050-9e11-9f472681f10e)
 
 
 <div align="center">
