@@ -19,5 +19,4 @@
 [**4. TESTES**](./testes.md)<br>
 
 ![image](https://github.com/user-attachments/assets/fcf9db5c-4d2d-470a-9a47-2c39d38ba61b)
-     width="30%"
-     style="padding: 10px"
+
