@@ -4,17 +4,17 @@
 
 ## Descrição Geral do domínio do problema
 
-O projeto consiste em criar um jogo de Blackjack, onde o jogador enfrentará um dealer controlado pelo sistema. O jogo permite ao usuário escolher, no início, quantos jogadores participarão e quantas fichas cada jogador terá como saldo inicial. O objetivo é criar o Blackjack tradicional, em que o jogador tenta alcançar 21 pontos ou se aproximar desse valor sem ultrapassá-lo.
-O sistema será responsável por controlar todas as mecânicas do jogo, como a distribuição de cartas, o cálculo de pontuações, a gestão das apostas e as ações possíveis para o jogador: hit (pedir carta), stand (manter a mão), split (dividir cartas iguais) e double down (dobrar a aposta e receber mais uma carta). Além disso, será responsável por avaliar automaticamente as condições de vitória, derrota ou empate ao final de cada rodada e atualizar o saldo de fichas de cada jogador.
-O dealer seguirá as regras clássicas do Blackjack, comprando cartas até atingir pelo menos 17 pontos. O jogo termina quando um jogador decide sair ou fica sem fichas.
+O projeto consiste em criar um jogo de Blackjack, onde o jogador enfrentará um dealer controlado pelo sistema. O jogo permite ao usuário escolhe suas ações no jogo. O objetivo é criar o Blackjack tradicional, em que o jogador tenta alcançar 21 pontos ou se aproximar desse valor sem ultrapassá-lo.
+O sistema será responsável por controlar todas as mecânicas do jogo, como a distribuição de cartas, o cálculo de pontuações, a gestão das apostas e as ações possíveis para o jogador: hit (pedir carta), stand (manter a mão) e double down (dobrar a aposta e receber mais uma carta). Além disso, será responsável por avaliar automaticamente as condições de vitória, derrota ou empate ao final de cada rodada.
+O dealer seguirá as regras clássicas do Blackjack, comprando cartas até atingir pelo menos 17 pontos. O jogo termina quando um jogador decide sair.
 
 Requisitos funcionais:
 
-Permitir que o jogador compre fichas e realize apostas em cada rodada.
+
 Distribuir cartas de forma aleatória para os jogadores e o dealer.
-Implementar as ações disponíveis ao jogador: hit, stand, split e double down.
+Implementar as ações disponíveis ao jogador: hit, stand e double down.
 Gerenciar a pontuação e avaliar as condições de vitória, derrota ou empate.
-Encerrar o jogo caso o jogador fique sem fichas.
+Reiniciar caso jogador queira.
 
 Requisitos não-funcionais:
 
@@ -22,13 +22,15 @@ Interface intuitiva para o usuário.
 
 ## Diagrama de Casos de Uso
 
-![image](https://github.com/user-attachments/assets/23de7054-485f-4a63-af80-e9ac3bf206df)
+![image](https://github.com/user-attachments/assets/def60215-7b23-46cf-a5cd-946ba6a061b9)
+
 
 
 
 ## Diagrama de Domínio do problema
 
-![image](https://github.com/user-attachments/assets/3d219a47-2df2-4c9a-bfad-798bce56ac74)
+![image](https://github.com/user-attachments/assets/56a8a0cc-d48f-4466-a773-5e45f3506a86)
+
 
 
 <div align="center">
