@@ -17,3 +17,5 @@
 [**2. PROJETO ORIENTADO A OBJETO**](./projeto.md)<br>
 [**3. IMPLEMENTAÇÃO (C++)**](./implementacao.md)<br>
 [**4. TESTES**](./testes.md)<br>
+
+![image](https://github.com/user-attachments/assets/fcf9db5c-4d2d-470a-9a47-2c39d38ba61b)
